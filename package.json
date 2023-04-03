@@ -1,0 +1,11 @@
+{
+  "name": "vuejs-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "docxtemplater": "^3.22.1",
+    "file-saver": "^2.0.2",
+    "pizzip": "^3.0.6",
+    "vue": "2.6.10"
+  }
+}
